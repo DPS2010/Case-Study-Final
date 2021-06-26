@@ -1,0 +1,33 @@
+.maindiv {
+    background-color: navy;
+    color: white;
+    border: 2px solid white;
+   
+    font-size: 22px;
+    width: 80%;
+    margin: 50px;
+}
+.maindiv img {
+    width: 400px;
+    height: 300px;
+
+}
+body {
+    background-color: mediumslateblue;
+    font-family: 'Big Shoulders Stencil Display', cursive;   
+}
+#heading {
+    background-color:navy;
+    color: white;
+    padding: 10px;
+}
+#finaloutput{
+    background-color:aqua ;
+    border-radius: 50px;
+    box-shadow: 10px 10px 20px white;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 40px;
+}
